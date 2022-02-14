@@ -1,0 +1,13 @@
+header {
+    position: absolute;
+    width: 1440px;
+    height: 56px;
+    left: 0px;
+    top: 0px;
+    
+    background: #5C16C5;
+}
+
+h2 {
+    margin-left: 30px;
+}
